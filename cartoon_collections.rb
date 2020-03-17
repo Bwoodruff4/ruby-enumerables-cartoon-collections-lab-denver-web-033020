@@ -7,7 +7,7 @@ end
 def summon_captain_planet(calls)
   new_array=[]
   calls.map{|item|
-  item
+  new_array<< item.capit
 end
 
 def long_planeteer_calls# code an argument here
