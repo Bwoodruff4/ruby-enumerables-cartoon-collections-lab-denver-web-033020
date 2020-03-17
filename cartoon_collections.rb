@@ -19,7 +19,6 @@ def long_planeteer_calls(calls)
       result = true
     end
   }
-  
   result
 end
 
