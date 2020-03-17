@@ -25,4 +25,5 @@ end
 def find_the_cheese(food_list)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
+  
 end
