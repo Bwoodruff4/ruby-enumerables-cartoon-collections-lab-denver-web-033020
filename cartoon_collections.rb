@@ -14,7 +14,7 @@ end
 
 def long_planeteer_calls(calls)
   result = false
-  if
+  calls.each{|b|
   
 end
 
